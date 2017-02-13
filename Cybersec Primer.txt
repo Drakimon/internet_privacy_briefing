@@ -1,0 +1,77 @@
+Introduction
+	Why you might want to know this stuff
+		-Protect yourself while organizing political action, speaking on dangerous topics, etc.
+		-Juke data collection and predictive algorithms
+		-Get around internet censorship (ex. The Great Firewall of China)
+		-Explore the darknet
+		-Generally protect yourself from the eyes of those that might want to harm you for whatever you do online
+	It's more likely now than ever before that the internet will become a restricted resource, rather than an open system as we are accustomed to it being
+	Thanks to people like Trump and his appointee Ajit Pai
+	http://www.npr.org/sections/thetwo-way/2017/01/23/510844936/trumps-telecom-chief-is-ajit-pai-critic-of-net-neutrality-rules
+	Recent events give reason to be concerned about our government's respect for internet privacy
+	https://arstechnica.com/tech-policy/2017/02/us-visitors-may-have-to-reveal-social-media-passwords-to-enter-country/
+		
+CASUAL LEVEL
+	Let's get some of you out of here early if you want to keep it simple
+	Install (and use) the following programs:
+		-Signal
+			Encrypted, safe messaging and calling
+			Easy to use, open source
+			Free, well-designed, and available both on Google Play store and in the Apple App Store
+			If you wanna be sure of your safety, use this through a VPN
+			DO THIS FOR ANYTHING POTENTIALLY COMPROMISING. NO EXCEPTIONS.
+		-NordicVPN or Cyberghost or any number of other VPN services
+			Remember, you don't need these on ALL of the time
+			Don't complain to me when your internet isn't that fast
+			There are plenty of good services out there, but READ THE PRIVACY POLICY
+			Many have free trials and free versions, though the paid versions are far preferable
+		-Tor
+			It's Firefox but safe as fuck
+			Like Firefox, it is free and open source
+			Uses layers of encrpytion to bounce your browsing around a network of proxies, with none of them knowing who you are or what you are doing, only where to pass your data next.
+			Keep it up to date (it will help you make sure of this) and NEVER enable JavaScript
+			This browser does not protect you from malicious software, so you still need to be a vigilant user/downloader
+		-Protonmail
+			It's email
+			It's encrypted
+			It's free
+			It cares about you and your well-being
+	Remember, these can only protect the communications that you conduct through them
+	Use your best judgement to decide what of your communication does and does not deserve that protection
+	
+TIN HAT WIZARD LEVEL
+	This is good if you are:
+		-Conducting darknet transactions
+		-A whistleblower wanting to get documents into capable hands
+		-An average citizen who is just feeling curious, cautious, or maybe even paranoid
+	Software
+		TAILS
+			Linux-based operating system that provides a full suite of useful apps and an impermanent session on any computer you want
+			Built on Debian, a relatively popular Linux distro
+			Just install on a flash drive, plug it into your favorite computer, boot to it, shut down fully when done with your business
+		Tin Hat Linux
+			Older, may not be as adapted as Tails. Requires further research.
+			Built on a hardened version of Gentoo Linux
+			Works similarly to Tails, but is a memory hog. Requires approx 5 GB of RAM or more.
+	Worth mentioning that this software, unlike TOR, will require your vigilance to stay up-to-date and as secure as possible
+	
+/** Encryption (needs work)
+	How it works
+	Types of encryption, what is outdated and what is still secure
+	RSA
+		Useful for all sorts of purposes
+	PGP
+		Useful for encrypting messages
+**/
+	
+Companies you can/can't trust
+	This is by no means a complete list
+	Do additional research on the companies you use before you trust them with your valuable information
+	
+	TRUST
+		-Apple
+		
+	DO NOT TRUST
+		-Microsoft
+		-Yahoo!
+		-Never ever ever post private information on public social media
